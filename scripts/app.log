@@ -1,0 +1,7 @@
+INFO Server started
+INFO User login successful
+ERROR Database connection failed
+INFO Retrying connection
+WARN Low disk space
+INFO Connection restored
+ERROR Timeout contacting API

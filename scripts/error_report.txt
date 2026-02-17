@@ -1,0 +1,3 @@
+ERROR Database connection failed
+ERROR Timeout contacting API
+WARN Low disk space
