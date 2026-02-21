@@ -21,3 +21,46 @@ Disk Usage: 52%
 Memory Usage: 1.2Gi/3.8Gi
 Uptime: up 5 hours, 40 minutes
 Disk usage is normal
+===================================
+System Report for devops-VirtualBox
+Generated on: Fri Feb 20 06:02:02 PM EST 2026
+----------------------------
+Disk Usage: 54%
+Memory Usage: 1.3Gi/3.8Gi
+Uptime: up 23 minutes
+CPU: %Cpu(s):  1.8 us,  5.4 sy,  0.0 ni, 87.5 id,  1.8 wa,  0.0 hi,  3.6 si,  0.0 st 
+Disk usage is normal
+===================================
+System Report for devops-VirtualBox
+Environment: development
+Generated on: Fri Feb 20 07:16:24 PM EST 2026
+----------------------------
+Disk Usage: 54%
+Memory Usage: 1.4Gi/3.8Gi
+Uptime: up 1 hour, 38 minutes
+CPU Usage: 100%
+Top Memory Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+devops      2989  3.8 12.6 5082308 508936 ?      Ssl  17:38   3:42 /usr/bin/gnome-shell
+devops      4179  0.0  6.3 2408044 254292 ?      Sl   17:41   0:02 /usr/bin/nautilus --gapplication-service
+devops      3671  0.0  2.5 1423276 104172 ?      Sl   17:39   0:00 /usr/libexec/mutter-x11-frames
+devops      3475  0.0  2.1 650952 84760 ?        Ssl  17:39   0:00 /usr/libexec/gsd-xsettings
+devops      3372  0.0  1.7 245168 69072 ?        S    17:39   0:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.PQR5K3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+Disk usage normal
+===================================
+System Report for devops-VirtualBox
+Environment: development
+Generated on: Fri Feb 20 07:21:20 PM EST 2026
+----------------------------
+Disk Usage: 54%
+Memory Usage: 1.4Gi/3.8Gi
+Uptime: up 1 hour, 42 minutes
+CPU Usage: 100%
+Top Memory Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+devops      2989  3.6 12.6 5090196 508972 ?      Ssl  17:38   3:46 /usr/bin/gnome-shell
+devops      4179  0.0  6.3 2408044 254292 ?      Sl   17:41   0:02 /usr/bin/nautilus --gapplication-service
+devops      3671  0.0  2.5 1423276 104172 ?      Sl   17:39   0:00 /usr/libexec/mutter-x11-frames
+devops      3475  0.0  2.1 650952 84760 ?        Ssl  17:39   0:00 /usr/libexec/gsd-xsettings
+devops      3372  0.0  1.7 245168 69072 ?        S    17:39   0:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.PQR5K3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+Disk usage normal

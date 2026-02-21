@@ -1,0 +1,14 @@
+# Week 2 Day 1 - Environment Variables
+
+Learned:
+- env
+- export
+- persistent variables via .bashrc
+- PATH
+- using env vars inside scripts
+
+Updated:
+- system_report.sh now includes environment
+
+Key takeaway:
+Environment variables control application behavior.
