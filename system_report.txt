@@ -64,3 +64,71 @@ devops      3671  0.0  2.5 1423276 104172 ?      Sl   17:39   0:00 /usr/libexec/
 devops      3475  0.0  2.1 650952 84760 ?        Ssl  17:39   0:00 /usr/libexec/gsd-xsettings
 devops      3372  0.0  1.7 245168 69072 ?        S    17:39   0:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.PQR5K3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
 Disk usage normal
+===================================
+System Report for devops-VirtualBox
+Environment: development
+Generated on: Sat Feb 28 04:25:06 PM EST 2026
+----------------------------
+Disk Usage: 57%
+Memory Usage: 1.3Gi/3.8Gi
+Uptime: up 7 hours, 18 minutes
+CPU Usage: 100%
+Top Memory Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+devops      6306  9.1 10.2 4853180 409472 ?      Ssl  16:04   1:51 /usr/bin/gnome-shell
+devops      7269  3.9  6.5 880264 263232 ?       SNl  16:06   0:44 /usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map
+devops      7067  0.0  2.5 1423276 104112 ?      Sl   16:05   0:00 /usr/libexec/mutter-x11-frames
+devops      6969  0.0  2.1 650964 84756 ?        Ssl  16:05   0:00 /usr/libexec/gsd-xsettings
+devops      6766  0.0  1.7 245140 69112 ?        S    16:04   0:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.4DLNL3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+Disk usage normal
+===================================
+System Report for devops-VirtualBox
+Environment: development
+Generated on: Sat Feb 28 04:31:48 PM EST 2026
+----------------------------
+Disk Usage: 57%
+Memory Usage: 1.2Gi/3.8Gi
+Uptime: up 3 minutes
+CPU Usage: 100%
+Top Memory Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+devops      3041 25.3 10.7 5001040 429960 ?      Ssl  16:29   0:37 /usr/bin/gnome-shell
+devops      3733  0.2  2.6 1423020 104248 ?      Sl   16:29   0:00 /usr/libexec/mutter-x11-frames
+devops      3592  0.3  2.1 650952 84896 ?        Ssl  16:29   0:00 /usr/libexec/gsd-xsettings
+devops      3429  0.1  1.7 245152 68912 ?        S    16:29   0:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.M3ZPL3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+devops      3657  0.9  1.6 2952304 65204 ?       Sl   16:29   0:01 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+Disk usage normal
+===================================
+System Report for devops-VirtualBox
+Environment: development
+Generated on: Sat Feb 28 04:33:27 PM EST 2026
+----------------------------
+Disk Usage: 57%
+Memory Usage: 1.2Gi/3.8Gi
+Uptime: up 5 minutes
+CPU Usage: 100%
+Top Memory Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+devops      3041 18.1 10.7 5001040 429952 ?      Ssl  16:29   0:44 /usr/bin/gnome-shell
+devops      3733  0.1  2.6 1423020 104248 ?      Sl   16:29   0:00 /usr/libexec/mutter-x11-frames
+devops      3592  0.1  2.1 650952 84896 ?        Ssl  16:29   0:00 /usr/libexec/gsd-xsettings
+devops      3429  0.1  1.7 245152 68912 ?        S    16:29   0:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.M3ZPL3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+devops      3657  0.5  1.6 2952304 65228 ?       Sl   16:29   0:01 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+Disk usage normal
+===================================
+System Report for devops-VirtualBox
+Environment: development
+Generated on: Sat Feb 28 04:46:30 PM EST 2026
+----------------------------
+Disk Usage: 57%
+Memory Usage: 1.2Gi/3.8Gi
+Uptime: up 18 minutes
+CPU Usage: 100%
+Top Memory Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+devops      3041  7.4 11.0 5014960 444020 ?      Ssl  16:29   1:17 /usr/bin/gnome-shell
+devops      3733  0.0  2.6 1423020 104248 ?      Sl   16:29   0:00 /usr/libexec/mutter-x11-frames
+devops      3592  0.0  2.1 650952 84896 ?        Ssl  16:29   0:00 /usr/libexec/gsd-xsettings
+devops      3429  0.0  1.7 245152 68912 ?        S    16:29   0:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.M3ZPL3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+devops      3657  0.1  1.6 2952304 65148 ?       Sl   16:29   0:01 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+Disk usage normal
