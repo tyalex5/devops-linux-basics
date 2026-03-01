@@ -51,6 +51,10 @@ echo "----------------------------" >> $REPORT_FILE
 
 # Add system stats
 echo "Disk Usage (root partition): $DISK" >> $REPORT_FILE
+
+# Capture CPU load average
+CPU_LOAD=$(uptime | awk -F'load average:' '{print $2}')
+echo "CPU Load: $CPU_LOAD" >> $REPORT_FILE
 echo "Memory Usage: $MEMORY" >> $REPORT_FILE
 echo "Uptime: $UPTIME" >> $REPORT_FILE
 echo "CPU Usage: ${CPU}%" >> $REPORT_FILE
