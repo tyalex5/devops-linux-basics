@@ -74,3 +74,8 @@ fi
 # Print completion message to terminal
 echo "System report generated at:"
 echo "$REPORT_FILE"
+
+# Capture CPU load average
+CPU_LOAD=$(uptime | awk -F'load average:' '{print $2}')
+
+echo "CPU Load: $CPU_LOAD" >> $REPORT_FILE
