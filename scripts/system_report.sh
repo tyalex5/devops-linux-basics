@@ -50,7 +50,7 @@ echo "Generated on: $DATE" >> $REPORT_FILE
 echo "----------------------------" >> $REPORT_FILE
 
 # Add system stats
-echo "Disk Usage: $DISK" >> $REPORT_FILE
+echo "Disk Usage (root partition): $DISK" >> $REPORT_FILE
 echo "Memory Usage: $MEMORY" >> $REPORT_FILE
 echo "Uptime: $UPTIME" >> $REPORT_FILE
 echo "CPU Usage: ${CPU}%" >> $REPORT_FILE
